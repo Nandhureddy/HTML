@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Welcome to the page..</h1>
+<p>This is a sample paragraph.. </p>
+
+<p><a href="https://google.com">Click here to go to the GOOGLE !!..</a></p>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+
+
+<table border="1px">
+  
+<tr>
+	
+<th>H1 Heading</th>
+
+	<td><h1> H1 Heading</h1></td>
+	
+</tr>
+	
+<tr>
+	
+<th> Heading H2</th>
+	
+<td> <h2>This is heading with H2 Tag.</h2></td>
+
+</tr>
+	
+
+</table>
+
+</body>
+
+</html>

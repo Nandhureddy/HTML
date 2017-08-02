@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style> 
+
+.container {
+    display: -webkit-flex;
+    
+    width: 400px;
+    height: 250px;
+    background-color: black;
+}
+
+.container-item {
+    color:blue;
+    background-color: white;
+
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+<div class="container">
+
+  <div class="container-item">item1</div>
+
+  <div class="container-item">item2</div>
+ 
+ <div class="container-item">item3</div> 
+ 
+</div>
+
+</body>
+
+</html>
